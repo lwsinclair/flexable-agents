@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-flexable-agents-badge.png)](https://mseep.ai/app/dynamicendpoints-flexable-agents)
+
 \
 <!-- filepath: c:\\Users\\Owner\\flexable-agents\\README.md -->
 # Flexible Agents MCP Server
